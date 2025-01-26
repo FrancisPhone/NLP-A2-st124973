@@ -32,3 +32,6 @@ Valid Perplexity= 49.123
 Test Perplexity= 48.228
 
 ## Don't forget to save model and vocabularies after training!
+
+
+![APP IMAGE](image.png)

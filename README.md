@@ -1,5 +1,4 @@
-# NLP-A2-st124973
-
+# AI Joke Generator
 
 github -> https://github.com/FrancisPhone/NLP-A2-st124973
 Notebook -> LSTM_LM_st124973.ipynb
